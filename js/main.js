@@ -1,0 +1,1 @@
+// disini saya akan membuat syntak javascript

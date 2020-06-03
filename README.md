@@ -1,2 +1,2 @@
 # myfirstproject
-first try
+tugas akhir phase0
